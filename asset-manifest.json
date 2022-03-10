@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Wordle/static/css/main.4f61a8d6.css",
-    "main.js": "/Wordle/static/js/main.f2b1dd19.js",
+    "main.js": "/Wordle/static/js/main.cdcfa642.js",
     "static/js/787.c829fc54.chunk.js": "/Wordle/static/js/787.c829fc54.chunk.js",
     "static/media/BCSans-Bold.woff": "/Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/Wordle/index.html",
     "static/media/getFetch.cjs": "/Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.4f61a8d6.css.map": "/Wordle/static/css/main.4f61a8d6.css.map",
-    "main.f2b1dd19.js.map": "/Wordle/static/js/main.f2b1dd19.js.map",
+    "main.cdcfa642.js.map": "/Wordle/static/js/main.cdcfa642.js.map",
     "787.c829fc54.chunk.js.map": "/Wordle/static/js/787.c829fc54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f61a8d6.css",
-    "static/js/main.f2b1dd19.js"
+    "static/js/main.cdcfa642.js"
   ]
 }
