@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Wordle/static/css/main.4f61a8d6.css",
-    "main.js": "/Wordle/static/js/main.0fcb7af8.js",
-    "static/js/787.c829fc54.chunk.js": "/Wordle/static/js/787.c829fc54.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Wordle/index.html",
-    "static/media/getFetch.cjs": "/Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.4f61a8d6.css.map": "/Wordle/static/css/main.4f61a8d6.css.map",
-    "main.0fcb7af8.js.map": "/Wordle/static/js/main.0fcb7af8.js.map",
-    "787.c829fc54.chunk.js.map": "/Wordle/static/js/787.c829fc54.chunk.js.map"
+    "main.css": "/paiwan-wordle/static/css/main.d0f9195b.css",
+    "main.js": "/paiwan-wordle/static/js/main.81862c5b.js",
+    "static/js/787.c829fc54.chunk.js": "/paiwan-wordle/static/js/787.c829fc54.chunk.js",
+    "static/media/BCSans-Bold.woff": "/paiwan-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/paiwan-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/paiwan-wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/paiwan-wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/paiwan-wordle/index.html",
+    "static/media/getFetch.cjs": "/paiwan-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.d0f9195b.css.map": "/paiwan-wordle/static/css/main.d0f9195b.css.map",
+    "main.81862c5b.js.map": "/paiwan-wordle/static/js/main.81862c5b.js.map",
+    "787.c829fc54.chunk.js.map": "/paiwan-wordle/static/js/787.c829fc54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f61a8d6.css",
-    "static/js/main.0fcb7af8.js"
+    "static/css/main.d0f9195b.css",
+    "static/js/main.81862c5b.js"
   ]
 }
