@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/paiwan-wordle/static/css/main.d0f9195b.css",
-    "main.js": "/paiwan-wordle/static/js/main.2866409e.js",
+    "main.js": "/paiwan-wordle/static/js/main.c23d59d7.js",
     "static/js/787.c829fc54.chunk.js": "/paiwan-wordle/static/js/787.c829fc54.chunk.js",
     "static/media/BCSans-Bold.woff": "/paiwan-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/paiwan-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -10,11 +10,11 @@
     "index.html": "/paiwan-wordle/index.html",
     "static/media/getFetch.cjs": "/paiwan-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.d0f9195b.css.map": "/paiwan-wordle/static/css/main.d0f9195b.css.map",
-    "main.2866409e.js.map": "/paiwan-wordle/static/js/main.2866409e.js.map",
+    "main.c23d59d7.js.map": "/paiwan-wordle/static/js/main.c23d59d7.js.map",
     "787.c829fc54.chunk.js.map": "/paiwan-wordle/static/js/787.c829fc54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0f9195b.css",
-    "static/js/main.2866409e.js"
+    "static/js/main.c23d59d7.js"
   ]
 }
